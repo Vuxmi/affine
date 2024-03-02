@@ -35,7 +35,7 @@ char encryptChar(char ch)
 int main() 
 {
 
- char message[] = "nhungiot";
+ char message[] = "minhvu";
 
  char encrypted[100];
 
